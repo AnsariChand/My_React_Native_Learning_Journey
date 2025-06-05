@@ -1,4 +1,4 @@
-📅 Day 2: Components, Props, and State – The Core Building Blocks
+cd 📅 Day 2: Components, Props, and State – The Core Building Blocks
 🎯 Goal for Today:
 Understand how React Native apps are structured using components
 
